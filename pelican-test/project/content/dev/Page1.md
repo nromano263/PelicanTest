@@ -13,7 +13,7 @@ Summary: Welcome to our new website built for TCMG 412!
         <meta name="date" content="2021-01-23" />
         <meta name="modified" content="2021-01-25" />
         <meta name="category" content="-Home-" />
-        <meta name="authors" content="Juan Quiroz, Zachary Bolton, Nathan Romano, William Brooks" />
+        <meta name="authors" content="Juan Quiroz, Zachary Bolot, Nathan Romano, William Brooks" />
         <meta name="summary" content="Welcome to our new website built for TCMG 412!" />
     </head>
     <body>
