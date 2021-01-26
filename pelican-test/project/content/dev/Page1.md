@@ -3,7 +3,7 @@ Tags: TCMG, A&M
 Date: 2021-01-23
 Modified: 2021-01-25
 Category: -Home-
-Authors: Juan Quiroz, Zachary Bolton, Nathan Romano, William Brooks
+Authors: Juan Quiroz, Zachary Bolot, Nathan Romano, William Brooks
 Summary: Welcome to our new website built for TCMG 412!
 
 <html>
